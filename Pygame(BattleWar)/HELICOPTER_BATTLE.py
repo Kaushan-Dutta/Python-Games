@@ -85,7 +85,10 @@ pic_space_y=60
 pic_space_speed=0.3
 
 
-pic_ship=[pygame.image.load("Images/pirateship.png"),pygame.image.load("Images/pirateship.png"),pygame.image.load("Images/pirateship.png"),pygame.image.load("Images/pirateship.png")]
+pic_ship=[pygame.image.load("Images/pirateship.png"),
+          pygame.image.load("Images/pirateship.png"),
+          pygame.image.load("Images/pirateship.png"),
+          pygame.image.load("Images/pirateship.png")]
 
 pic_ship_x=[]
 pic_ship_y=[]

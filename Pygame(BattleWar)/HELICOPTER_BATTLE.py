@@ -1,4 +1,4 @@
-#add score and sound game over change color starting notation speed
+#add score an sound game over change color starting notation speed
 import pygame
 import random
 from pygame import mixer
